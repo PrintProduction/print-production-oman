@@ -1,0 +1,45 @@
+PRINT PRODUCTION — MANUAL 5-FRIEND REFERRAL DISCOUNT
+===================================================
+
+This is a PUBLIC instruction document when uploaded to a public repository.
+NEVER put any customer's phone numbers, screenshots or order history here.
+
+THE OFFER
+"Share with 5 Friends & Get 20% Off!"
+Share the website with five DIFFERENT contacts, and send proof to Print Production
+through private WhatsApp. Business approval is required.
+
+WHAT THE CUSTOMER DOES
+1. Click Get 20% Off on the homepage or near the house plate collection.
+2. Copy their personal URL such as https://printproduction.github.io/print-production-oman/?ref=PP-XXXXXXXXXXXX
+3. Send the personal link to five different WhatsApp contacts.
+4. Take five screenshots, one screenshot per conversation, with the contact
+   name/number and the sent referral link visible. They may hide unrelated messages.
+5. Mark the number of screenshots prepared on the website (0/5 to 5/5).
+   This count is SELF-REPORTED and does not verify any claims.
+6. At 5/5, click Send Proof & Request My 20% Discount, open the chat and
+   ATTACH ALL FIVE SCREENSHOTS in WhatsApp. Send the prepared message.
+
+WHAT THE BUSINESS MUST DO (MANUALLY)
+1. Receive the WhatsApp message and five screenshots for referral code PP-... .
+2. Check there are five different contacts, each showing the relevant link sent.
+3. Check your private records that the same contacts have not already been
+   counted for this referral, and that the referral meets your published terms.
+4. If approved, issue a UNIQUE, SINGLE-USE discount code privately in WhatsApp,
+   e.g. PP20-[YOUR-PRIVATE-ORDER-ID]. NEVER issue approved codes in frontend JS.
+5. Keep a PRIVATE spreadsheet or notebook (NOT in GitHub) with referral code,
+   date, counted contacts, approved redemption code, eligible order, used/unused.
+6. When customer orders: confirm eligible quoted price, apply 20%, and confirm
+   discounted total before payment. Example: OMR 25.000 -> save 5.000 -> pay 20.000.
+7. After applying the discount, MARK THE CODE USED in the private record.
+   Do not accept a redeemed code a second time.
+
+LIMITATIONS
+- Screenshot evidence can be incomplete or modified; you must exercise judgement.
+- GitHub Pages has no server to verify shares, store screenshots, count truly
+  verified referrals, issue trusted coupons, or prevent repeat redemption.
+- The website shows only a screenshot-preparation checklist. No automatic
+  eligibility or qualification is asserted.
+- Decide and publish your offer rules: start/end dates, eligible products,
+  stacking with sales, minimum order, one redemption per customer, disputes.
+- Personal details and screenshots must not be published in your public repo.

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://printproduction.github.io/print-production-oman/sitemap.xml
